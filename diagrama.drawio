@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="oXA92fNsQddmfN-BRNuY" name="Página-1">
-        <mxGraphModel dx="1455" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2397" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -83,7 +83,7 @@
                 <mxCell id="21" value="Eje x&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
                     <mxGeometry x="245" y="360" width="100" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="22" value="y &amp;lt; 0" style="rhombus;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+                <mxCell id="22" value="y &amp;lt; 0" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
                     <mxGeometry x="-160" y="440" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="23" value="false&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -116,10 +116,10 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="31" value="CUADRANTE 2" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+                <mxCell id="31" value="CUADRANTE 2" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
                     <mxGeometry x="-300" y="520" width="120" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="32" value="CUADRANTE 3" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+                <mxCell id="32" value="CUADRANTE 3" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
                     <mxGeometry x="-80" y="520" width="85" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="33" value="false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -128,7 +128,7 @@
                 <mxCell id="34" value="true&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="-65" y="455" width="50" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="35" value="y &amp;gt; 0&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+                <mxCell id="35" value="y &amp;gt; 0&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
                     <mxGeometry x="120" y="440" width="80" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="36" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="35">
@@ -149,7 +149,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="38" value="CUADRANTE 4&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+                <mxCell id="38" value="CUADRANTE 4&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
                     <mxGeometry x="30" y="520" width="100" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="41" value="false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -158,7 +158,7 @@
                 <mxCell id="43" value="true&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="215" y="455" width="50" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="44" value="CUADRANTE 1&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+                <mxCell id="44" value="CUADRANTE 1&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
                     <mxGeometry x="225" y="520" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="45" value="" style="endArrow=classic;html=1;entryX=0.458;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="44">
@@ -202,7 +202,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="54" value="Eje y&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+                <mxCell id="54" value="Eje y&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
                     <mxGeometry x="400" y="360" width="80" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="55" value="ORIGEN&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
